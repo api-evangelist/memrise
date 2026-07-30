@@ -1,9 +1,28 @@
 aid: memrise
 name: memrise
-description: memrise is a company surfaced as a portfolio company of balderton-capital, techstars and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Memrise is a language-learning app founded in 2010 and headquartered in London, UK,
+  trusted by 80 million learners across iOS, Android, and web. It is built around real
+  native-speaker video, goal-based specialised courses (exams, work, relationships,
+  travel), a spaced-repetition memory-science engine created by co-founder and Princeton
+  neuroscientist Greg Detre, and AI conversation practice. Memrise offers courses in
+  149+ languages and has been profitable since 2016. It was surfaced as a portfolio
+  company of Balderton Capital and Techstars and added to the API Evangelist network.
+  Memrise is a consumer product and publishes no public developer API; this profile
+  captures its public web, security, and machine-readable (llms.txt) surface.
 url: https://raw.githubusercontent.com/api-evangelist/memrise/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.memrise.com/favicon.ico
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -13,9 +32,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Language Learning
+- Education
+- EdTech
+- Mobile App
+- Consumer
+- AI
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +50,40 @@ maintainers:
 common:
 - type: Website
   url: https://www.memrise.com/
+- type: About
+  url: https://www.memrise.com/about
+- type: Blog
+  url: https://www.memrise.com/blog
+- type: Support
+  url: https://memrise.zendesk.com
+- type: HelpCenter
+  url: https://memrise.zendesk.com
+- type: Pricing
+  url: https://www.memrise.com/premium
+- type: Login
+  url: https://www.memrise.com/login
+- type: TermsOfService
+  url: https://www.memrise.com/terms
+- type: PrivacyPolicy
+  url: https://www.memrise.com/privacy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/memrise
+- type: Twitter
+  url: https://x.com/memrise
+- type: LLMsTxt
+  url: llms/memrise-llms.txt
+- type: SecurityTxt
+  url: well-known/memrise-security.txt
+- type: WellKnown
+  url: well-known/memrise-well-known.yml
+- type: Security
+  url: security/memrise-vulnerability-disclosure.yml
+- type: VulnerabilityDisclosure
+  url: security/memrise-vulnerability-disclosure.yml
+- type: DomainSecurity
+  url: security/memrise-domain-security.yml
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 5
+  pass: local-v1
