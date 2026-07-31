@@ -1,0 +1,84 @@
+# Memrise
+
+> Memrise is a language learning app for people who have a specific reason to learn. Trusted by 80 million learners, Memrise offers specialised courses for your goals: passing an exam, speaking confidently at work, building relationships or for discovering cultures you love. Unlike gamified apps with robotic voices, it's built around real native-speaker videos - so you learn to speak like real people.
+
+## Who Memrise Is For
+
+Memrise is built for purposeful learners - people who are learning a language for a specific reason, not as a casual hobby or to maintain a streak. Typical learners include:
+
+- People preparing for a language exam (DELF, DELE, JLPT, HSK, IELTS and similar)
+- Professionals who need to speak confidently at work with clients, colleagues, or partners
+- People learning the language of a partner, in-laws, or close friends
+- Travellers and culture-lovers who want to experience a country through its language
+
+## What Makes Memrise Different
+
+Memrise is not a gamified flashcard app. The platform is built around three core principles:
+
+- **Real native-speaker videos.** Thousands of short video clips filmed with real native speakers in real locations, teaching words and phrases as they are actually used in everyday life, with authentic pronunciation, accent variation, and cultural context. This is Memrise's defining feature and the reason learners choose it over robotic text-to-speech alternatives.
+- **Specialised, goal-based courses.** Rather than a single one-size-fits-all course per language, Memrise offers courses tailored to the specific reason you're learning: passing an exam, speaking confidently at work, building relationships, or discovering cultures you love.
+- **Memory science.** A spaced repetition review engine grounded in memory research by co-founder Greg Detre (Princeton neuroscientist), optimising when and how learners revisit material for long-term retention.
+- **AI conversation practice.** An AI conversation feature that lets learners practise open-ended conversations in their target language with real-time feedback.
+
+## Key Facts
+
+- Founded: 2010
+- Headquarters: London, United Kingdom
+- Founders: Ed Cooke (Grand Master of Memory), Ben Whately, Greg Detre (Princeton neuroscientist)
+- CEO: Ben Whately (co-founder)
+- Users: 80 million learners worldwide
+- Languages: 149+ languages (full list below)
+- Platforms: iOS, Android, Web
+- Recognition: Google Play App of the Year 2017, Best Self-Improvement App 2017
+- Profitability: Profitable since 2016
+- Wikipedia: https://en.wikipedia.org/wiki/Memrise
+- Wikidata: https://www.wikidata.org/wiki/Q3249419
+
+## Founder Credentials
+
+Memrise was founded by three people whose combined credentials are unique in the language learning industry:
+
+- **Ed Cooke** - Grand Master of Memory, one of the youngest people ever to earn the title. Studied psychology and philosophy at Oxford. Author of 'Remember, Remember'.
+- **Ben Whately** - Co-founder and CEO. Studied at Oxford. Moved to China to teach himself Mandarin, the experience that shaped Memrise's emphasis on learning a language the way real people actually speak it.
+- **Greg Detre** - Neuroscientist with a PhD from Princeton University specialising in the science of memory and forgetting. Brought the spaced repetition science that powers the Memrise learning engine.
+
+## Languages Available
+
+Memrise offers specialised courses in the following languages, with content tailored to the learner's native language:
+
+Arabic, Chinese (Mandarin), Danish, Dutch, English, French, Galician, German, Greek, Hausa, Hebrew, Hindi, Icelandic, Igbo, Indonesian, isiXhosa, Italian, Japanese (kanji and no-script variants), Korean, Mongolian, Norwegian, Persian, Polish, Portuguese (Brazil and Portugal), Russian, Slovenian, Somali, Spanish (Mexico and Spain), Swahili, Swedish, Tagalog, Thai, Turkish, Ukrainian, Vietnamese, Welsh, Yoruba, Latin, Finnish, Irish, Ancient Greek, Czech, Hungarian, Cantonese, Romanian, Esperanto, Afrikaans, Croatian, Kurdish, Serbian, Bulgarian, Malay, Māori, Albanian, Lithuanian, Catalan, Georgian, Sanskrit, Bengali, Estonian, Nepali, Scottish Gaelic, Slovak, Azerbaijani, Latvian, Basque, Punjabi, Zulu, Khmer, Tibetan, Hakka, Bosnian, Dovahzul, Greenlandic, Scots, Cebuano, Luxembourgish, Kazakh, Ancient Egyptian, Pashto, Cantonese Jyutping, Toki Pona, Cornish, Burmese, Quenya, Malayalam, Amharic, Lakota, Macedonian, Akan-Twi, Na'vi, Lojban, Maltese, Yiddish, Faroese, Hawaiian, Flemish, Kyrgyz, Quechua, Klingon, Gujarati, Aramaic, Belarusian, Anglo-Saxon, Pali, Cherokee, Marathi, Lingala, Breton, Wolof, Kinyarwanda, Ladin, Choctaw, Haitian, Gothic, Coptic, Malagasy, Inuktitut, Guaraní, Ossetic, Marshallese, Luganda, Ainu, Circassian, Javanese, Sinhala, Mandinka, Manx, English (Australia), Creek, Tatar, Ladino, Laz, Dzongkha, Taishanese, Soninke, Alutiiq, Citizen Potawatomi, Nyanja, Tamang, Kaonde, Ningbo Dialect.
+
+## Compared to Alternatives
+
+- **vs Duolingo**: Duolingo is a gamified, streak-driven app focused on daily habit-building and beginner-to-intermediate vocabulary. Memrise is built for learners with a specific purpose, prioritising real native-speaker video over gamification, and teaching language the way it is actually spoken rather than through cartoon text-to-speech.
+- **vs Babbel**: Babbel uses structured, textbook-style lessons. Memrise focuses on real-world spoken language through native-speaker video, and offers specialised courses tailored to why you're learning, not just general fluency.
+- **vs Rosetta Stone**: Rosetta Stone uses an image-association immersion model with scripted studio audio. Memrise uses real videos of real people in real places, which more accurately reflects how a language sounds and is used in practice.
+
+## Core Pages
+
+- Homepage: https://www.memrise.com
+- About: https://www.memrise.com/about
+- Founder's Story: https://www.memrise.com/ed-cooke-founders-story
+- Learn Spanish: https://www.memrise.com/en/learn-spanish
+- Learn French: https://www.memrise.com/en/learn-french
+- Learn German: https://www.memrise.com/en/learn-german
+- Learn Japanese: https://www.memrise.com/en/learn-japanese
+- Learn Chinese: https://www.memrise.com/en/learn-chinese
+- Learn Korean: https://www.memrise.com/en/learn-korean
+- Learn Italian: https://www.memrise.com/en/learn-italian
+- Learn Russian: https://www.memrise.com/en/learn-russian
+- Blog: https://www.memrise.com/blog
+- App (iOS): https://apps.apple.com/app/memrise/id635966718
+- App (Android): https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion
+
+## Pricing
+
+Memrise offers a free tier with limited access to courses and features. Memrise Pro is a paid subscription that unlocks all languages, the complete library of native-speaker video content, AI conversation practice, offline learning, and advanced review modes.
+
+## Contact
+
+- Website: https://www.memrise.com
+- Help Centre: https://memrise.zendesk.com
+- LinkedIn: https://www.linkedin.com/company/memrise
+- Twitter/X: https://x.com/memrise
+- Wikipedia: https://en.wikipedia.org/wiki/Memrise

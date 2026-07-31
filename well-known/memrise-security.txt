@@ -1,0 +1,4 @@
+Contact: security@memrise.com
+
+# We do not have any bug bounty program in place,
+# but would still appreciate to be made aware of any security issues found.

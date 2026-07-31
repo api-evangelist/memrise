@@ -1,0 +1,24 @@
+generated: '2026-07-20'
+method: searched
+source: live probes of https://www.memrise.com/.well-known/
+host: www.memrise.com
+endpoints:
+- path: /.well-known/security.txt
+  status: 200
+  file: memrise-security.txt
+- path: /.well-known/openid-configuration
+  status: 404
+  file: null
+- path: /.well-known/oauth-authorization-server
+  status: 404
+  file: null
+- path: /.well-known/api-catalog
+  status: 404
+  file: null
+- path: /.well-known/ai-plugin.json
+  status: 404
+  file: null
+notes: >-
+  Only /.well-known/security.txt (200) is published. No OpenID/OAuth metadata,
+  API catalog, or AI plugin manifest. api.memrise.com resolves but returns 404
+  for all probed well-known paths (no public developer API surface).
